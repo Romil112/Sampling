@@ -33,18 +33,19 @@ After appling the sampling techniques, the following 5 Machine Learning models a
 
 The accuracy scores of all the models are recorded in a Dataframe which is as follows:
 
-![image](https://user-images.githubusercontent.com/75222834/219948510-681dcafa-3a7c-497a-9500-9c8492b18f15.png)
+![image](https://user-images.githubusercontent.com/75222834/219958052-edc6d6ac-a08b-4d93-a2c6-4216a53e8a4e.png)
+
 
 ## Conclusion
-1.We can determine that for Logistic regression, stratified sampling,convinience sampling and SMOTE are giving best accuracy of 0.940541
+1.We can determine that for Logistic regression, stratified sampling is giving the best accuracy at 0.940541
 
 2.For Decision Tree, Random sampling is giving best accuracy at 0.989583
 
-3.For Gradient Boosting Classifier, stratified sampling,convinience sampling and SMOTE are giving best accuracy of 0.994595
+3.For Gradient Boosting Classifier, stratified sampling is giving best accuracy at 0.994595
 
-4.For Naive Bayes Classifier, Systematic Sampling is giving best accuracy at 0.83333
+4.For Naive Bayes Classifier, SMOTE is giving best accuracy at 0.844828
 
-5.For Random Forest Classifier,every model is giving accuracy of 1.0000
+5.For Random Forest Classifier,random sampling,systematic sampling and stratified sampling are giving accuracy of 1.0000
 
 Thus the best model is Random Forest.
 
