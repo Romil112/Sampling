@@ -46,6 +46,7 @@ The accuracy scores of all the models are recorded in a Dataframe which is as fo
 
 5.For Random Forest Classifier,every model is giving accuracy of 1.0000
 
+Thus the best model is Random Forest.
 
 
 
